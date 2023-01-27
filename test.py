@@ -3,8 +3,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-login = "+380963611199"
-password = "Igor1983!"
+login = "+"
+password = ""
 
 browser = webdriver.Chrome(r'C:\Users\1\Desktop\New_Project\Insta\chromedriver')
 browser.get("https://www.instagram.com/accounts/login/?source=auth_switcher")
